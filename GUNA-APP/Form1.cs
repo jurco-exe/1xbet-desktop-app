@@ -56,5 +56,15 @@ namespace GUNA_APP
         {
 
         }
+
+        private void guna2Button15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
