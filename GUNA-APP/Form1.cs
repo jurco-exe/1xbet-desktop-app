@@ -66,5 +66,70 @@ namespace GUNA_APP
         {
 
         }
+
+        private void guna2PictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Panel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label23_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button19_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button21_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button22_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button20_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button24_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button25_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button23_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button26_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button27_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
