@@ -133,17 +133,26 @@
   <data name="football" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\football.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="sweden" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sweden.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="messi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\messi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="real-madrid" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\real-madrid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bayen-munchen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bayen-munchen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="finland" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\finland.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ixbet-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ixbet-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="roma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\roma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="banner_image.png" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\banner_image.png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,14 +166,29 @@
   <data name="home-button" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\home-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="valencia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\valencia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="betting-company-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\betting-company-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ice-hockey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ice-hockey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="search(3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\search(3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="favorite" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\favorite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ice-hockey(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ice-hockey(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="monaco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\monaco2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lazio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lazio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="live-stream" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\live-stream.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -175,11 +199,23 @@
   <data name="borusia-dortmund" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\borusia-dortmund.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bet-tv-channel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bet-tv-channel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="slovakia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slovakia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="field" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\field.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bet-tv-channel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bet-tv-channel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="russia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\russia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="real-madrid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\real-madrid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="united-states" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\united-states.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="shoot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\shoot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,13 +238,13 @@
   <data name="hockey" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hockey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pitch" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pitch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="barcelona" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\barcelona.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="internazionale-milano" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\internazionale-milano.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="barcelona" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\barcelona.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="canada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\canada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

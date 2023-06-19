@@ -163,6 +163,16 @@ namespace GUNA_APP.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap canada {
+            get {
+                object obj = ResourceManager.GetObject("canada", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap chelsea {
             get {
                 object obj = ResourceManager.GetObject("chelsea", resourceCulture);
@@ -186,6 +196,16 @@ namespace GUNA_APP.Properties {
         internal static System.Drawing.Bitmap field {
             get {
                 object obj = ResourceManager.GetObject("field", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap finland {
+            get {
+                object obj = ResourceManager.GetObject("finland", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,6 +253,26 @@ namespace GUNA_APP.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ice_hockey {
+            get {
+                object obj = ResourceManager.GetObject("ice-hockey", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ice_hockey_1_ {
+            get {
+                object obj = ResourceManager.GetObject("ice-hockey(1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap internazionale_milano {
             get {
                 object obj = ResourceManager.GetObject("internazionale-milano", resourceCulture);
@@ -246,6 +286,16 @@ namespace GUNA_APP.Properties {
         internal static System.Drawing.Bitmap ixbet_logo {
             get {
                 object obj = ResourceManager.GetObject("ixbet-logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lazio {
+            get {
+                object obj = ResourceManager.GetObject("lazio", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -276,6 +326,16 @@ namespace GUNA_APP.Properties {
         internal static System.Drawing.Bitmap messi {
             get {
                 object obj = ResourceManager.GetObject("messi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap monaco {
+            get {
+                object obj = ResourceManager.GetObject("monaco", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -316,6 +376,26 @@ namespace GUNA_APP.Properties {
         internal static System.Drawing.Bitmap real_madrid {
             get {
                 object obj = ResourceManager.GetObject("real-madrid", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap roma {
+            get {
+                object obj = ResourceManager.GetObject("roma", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap russia {
+            get {
+                object obj = ResourceManager.GetObject("russia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -366,6 +446,46 @@ namespace GUNA_APP.Properties {
         internal static System.Drawing.Bitmap shoot {
             get {
                 object obj = ResourceManager.GetObject("shoot", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap slovakia {
+            get {
+                object obj = ResourceManager.GetObject("slovakia", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sweden {
+            get {
+                object obj = ResourceManager.GetObject("sweden", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap united_states {
+            get {
+                object obj = ResourceManager.GetObject("united-states", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap valencia {
+            get {
+                object obj = ResourceManager.GetObject("valencia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

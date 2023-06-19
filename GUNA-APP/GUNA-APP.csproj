@@ -192,5 +192,41 @@
   <ItemGroup>
     <None Include="Resources\messi.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monaco2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lazio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\valencia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ice-hockey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\russia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slovakia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ice-hockey%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finland.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sweden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\united-states.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\canada.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
