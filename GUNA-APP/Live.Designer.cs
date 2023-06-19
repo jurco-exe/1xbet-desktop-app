@@ -276,6 +276,7 @@
             this.guna2Button6.Size = new System.Drawing.Size(100, 40);
             this.guna2Button6.TabIndex = 7;
             this.guna2Button6.Text = "Live";
+            this.guna2Button6.Click += new System.EventHandler(this.guna2Button6_Click);
             // 
             // guna2Button5
             // 
@@ -297,6 +298,7 @@
             this.guna2Button5.Size = new System.Drawing.Size(100, 40);
             this.guna2Button5.TabIndex = 6;
             this.guna2Button5.Text = "Casino";
+            this.guna2Button5.Click += new System.EventHandler(this.guna2Button5_Click);
             // 
             // btnSports
             // 
@@ -320,6 +322,7 @@
             this.btnSports.Size = new System.Drawing.Size(100, 40);
             this.btnSports.TabIndex = 2;
             this.btnSports.Text = "Sports";
+            this.btnSports.Click += new System.EventHandler(this.btnSports_Click);
             // 
             // guna2Button4
             // 
@@ -341,6 +344,7 @@
             this.guna2Button4.Size = new System.Drawing.Size(100, 40);
             this.guna2Button4.TabIndex = 5;
             this.guna2Button4.Text = "Promotions";
+            this.guna2Button4.Click += new System.EventHandler(this.guna2Button4_Click);
             // 
             // guna2Button3
             // 
@@ -363,6 +367,7 @@
             this.guna2Button3.Size = new System.Drawing.Size(100, 40);
             this.guna2Button3.TabIndex = 4;
             this.guna2Button3.Text = "Contact";
+            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
             // 
             // guna2Panel8
             // 

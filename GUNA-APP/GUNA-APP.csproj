@@ -228,5 +228,53 @@
   <ItemGroup>
     <None Include="Resources\canada.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stopwatch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino4.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino9.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino81.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino11.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casino12.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
