@@ -114,6 +114,9 @@
     <EmbeddedResource Include="Live.resx">
       <DependentUpon>Live.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Promotions.resx">
       <DependentUpon>Promotions.cs</DependentUpon>
     </EmbeddedResource>
@@ -127,6 +130,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Sports.resx">
       <DependentUpon>Sports.cs</DependentUpon>
     </EmbeddedResource>
@@ -323,6 +329,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayNGo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evolution.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TpS3gUo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgaming.png.jpeg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Amatic-Industries_m.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EGT-New-1-1200x675.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

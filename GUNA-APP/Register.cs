@@ -16,5 +16,18 @@ namespace GUNA_APP
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var sportsLink = new Form1();
+            sportsLink.Closed += (s, args) => this.Close();
+            sportsLink.Show();
+        }
     }
 }
