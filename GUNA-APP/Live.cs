@@ -35,7 +35,7 @@ namespace GUNA_APP
         private void btnSports_Click(object sender, EventArgs e)
         {
             this.Hide();
-            var sportsLink = new Sports();
+            var sportsLink = new Form1();
             sportsLink.Closed += (s, args) => this.Close();
             sportsLink.Show();
         }
@@ -70,6 +70,22 @@ namespace GUNA_APP
             var contactLink = new Contact();
             contactLink.Closed += (s, args) => this.Close();
             contactLink.Show();
+        }
+
+        private void guna2Button7_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var loginLink = new Login();
+            loginLink.Closed += (s, args) => this.Close();
+            loginLink.Show();
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var registerLink = new Register();
+            registerLink.Closed += (s, args) => this.Close();
+            registerLink.Show();
         }
     }
 }

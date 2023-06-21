@@ -27,7 +27,7 @@ namespace GUNA_APP
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            var sportsLink = new Sports();
+            var sportsLink = new Form1();
             sportsLink.Closed += (s, args) => this.Close();
             sportsLink.Show();
 
@@ -87,8 +87,13 @@ namespace GUNA_APP
 
         private void guna2Button9_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            var liveLink = new Live();
+            liveLink.Closed += (s, args) => this.Close();
+            liveLink.Show();
         }
+
+
 
         private void guna2Button11_Click(object sender, EventArgs e)
         {
@@ -183,6 +188,30 @@ namespace GUNA_APP
         private void label21_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void guna2Button8_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var sportsLink = new Form1();
+            sportsLink.Closed += (s, args) => this.Close();
+            sportsLink.Show();
+        }
+
+        private void guna2Button7_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            var loginLink = new Login();
+            loginLink.Closed += (s, args) => this.Close();
+            loginLink.Show();
+        }
+
+        private void guna2Button2_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            var registerLink = new Register();
+            registerLink.Closed += (s, args) => this.Close();
+            registerLink.Show();
         }
     }
 }
